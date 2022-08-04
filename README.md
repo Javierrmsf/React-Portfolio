@@ -2,7 +2,7 @@
 
 
 ## Note
-To run the app in your computer, first install all dependencies and then open a terminal and type "npm start"
+To run the app in your computer, first install all dependencies with "npm i" in the package.json file and then open a terminal and type "npm start"
 To go to the deployed website, please follow this link: https://javierrmsf.github.io/Reactportfoliodeploy/
 ## Your Task
 
